@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/19 16:14:03.000.604,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/19 16:14:53.000.134,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPrincipal.dfm</Transaction>
+    <Transaction>2024/09/19 16:14:53.000.134,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPrincipal.pas</Transaction>
+    <Transaction>2024/09/19 16:15:27.000.852,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\projetoCEP.dproj</Transaction>
+    <Transaction>2024/09/20 13:58:38.000.665,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/20 14:00:43.000.418,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesquisaCEP.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/20 14:00:43.000.423,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesquisaCEP.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/20 14:09:14.000.829,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/20 14:10:34.000.956,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesquisaEnd.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/20 14:10:34.000.956,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesquisaEnd.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/21 12:09:53.000.281,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/21 12:11:18.000.267,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmMenuPrincipal.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/21 12:11:18.000.267,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmMenuPrincipal.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/21 14:06:42.000.437,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/21 14:08:28.000.339,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesqCEPca12.dfm=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/21 14:08:28.000.339,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesqCEPca12.pas=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/21 16:11:54.000.284,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\frmPesqCEPca12.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
